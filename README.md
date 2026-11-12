@@ -1,6 +1,6 @@
 # VibeSpaces – Furniture & Interior Design Website
 
-A modern and elegant furniture and interior design website built using HTML5 and CSS3.
+A modern and elegant furniture and interior design website built using HTML and CSS.
 
 ## 🌐 Live Demo
 [View Website](https://yasmen-abdelhay.github.io/furniture-website/)
